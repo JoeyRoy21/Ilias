@@ -456,7 +456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  jumpSpeed: 100
+  jumpSpeed: 250
   square: {fileID: 1812668842}
   rb: {fileID: 1812668845}
   inair: 1
